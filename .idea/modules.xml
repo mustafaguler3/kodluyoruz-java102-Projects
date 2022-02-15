@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BookSorter/BookSorter.iml" filepath="$PROJECT_DIR$/BookSorter/BookSorter.iml" />
       <module fileurl="file://$PROJECT_DIR$/FixtureBuilder/FixtureBuilder.iml" filepath="$PROJECT_DIR$/FixtureBuilder/FixtureBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatikaStore/PatikaStore.iml" filepath="$PROJECT_DIR$/PatikaStore/PatikaStore.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-java102-Projects.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-java102-Projects.iml" />
     </modules>
   </component>
